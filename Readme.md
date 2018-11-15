@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ExplorerUserControl.cs](./CS/B143239/ExplorerUserControl.cs) (VB: [ExplorerUserControl.vb](./VB/B143239/ExplorerUserControl.vb))
+* [MainForm.cs](./CS/B143239/MainForm.cs) (VB: [MainForm.vb](./VB/B143239/MainForm.vb))
+* [PropertiesUserControl.cs](./CS/B143239/PropertiesUserControl.cs) (VB: [PropertiesUserControl.vb](./VB/B143239/PropertiesUserControl.vb))
+<!-- default file list end -->
 # How to share a single BarManager between different UserControls
 
 
